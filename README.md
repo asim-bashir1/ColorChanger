@@ -8,7 +8,7 @@ A simple React app to change background colors.
 - Random color generator
 
 ## Live Demo
-(link here soon...)
+color-changer-eight-xi.vercel.app
 
 ## Tech
 - React (Vite)
